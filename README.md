@@ -1,4 +1,6 @@
-# Elmish.XamarinFormsDemos
+# Awesome Elmish.XamarinForms
+
+A hand-curated list of awesome resources when using [Elmish.XamarinForms](https://github.com/fsprojects/Elmish.XamarinForms).
 
 ## Sample apps
 
