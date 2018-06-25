@@ -2,6 +2,11 @@
 
 A hand-curated list of awesome resources when using [Elmish.XamarinForms](https://github.com/fsprojects/Elmish.XamarinForms).
 
+## Elmish.XamarinForms
+
+* [Elmish.XamarinForms on GitHub](https://github.com/fsprojects/Elmish.XamarinForms)
+* [Official documentation](https://fsprojects.github.io/Elmish.XamarinForms/)
+
 ## Sample apps
 
 * [Half-Elmish Demo](https://github.com/jimbobbennett/HalfElmishDemo) - A simple half-emlish demo app with an incrementing counter.
