@@ -20,4 +20,5 @@ A hand-curated list of awesome resources when using [Elmish.XamarinForms](https:
 
 ## Videos
 
-* [Building mobile apps using Xamarin and F# from F#Conf](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/05) - Building Xamarin apps in F#, starting with using F# as a drop-in for C#, then looking at Half-Elmish,
+* [Building mobile apps using Xamarin and F# from F#Conf](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/05) - Building Xamarin apps in F#, starting with using F# as a drop-in for C#, then looking at Half-Elmish.
+* [Xamarin University Guest lecture on Xamarin and F#](https://www.youtube.com/watch?v=si9YdWhbwSI) - Building Xamarin apps using F# with half-elmish and full-elmish
