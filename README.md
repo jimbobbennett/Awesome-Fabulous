@@ -13,6 +13,7 @@ A hand-curated list of awesome resources when using [Elmish.XamarinForms](https:
 * [Full-Elmish Demo](https://github.com/jimbobbennett/FullElmishDemo) - A simple full-emlish demo app with mulitple pages, an incrementing counter and a unit test project for the `init`, `update` and `view` functions.
 * [Tic Tac Toe](https://github.com/jimbobbennett/TicTacToe) - A Half-Elmish implementation of Tic Tac Toe.
 * [Elmish Calculator](https://github.com/nosami/Elmish.Calculator) - an implementation of a calculator using Full-Elmish.
+* [Elmish Contacts](https://github.com/TimLariviere/ElmishContacts) - a contacts app using Full-Elmish.
 
 ## Blog posts
 
