@@ -14,6 +14,7 @@ A hand-curated list of awesome resources when using [Elmish.XamarinForms](https:
 * [Tic Tac Toe](https://github.com/jimbobbennett/TicTacToe) - A Half-Elmish implementation of Tic Tac Toe.
 * [Elmish Calculator](https://github.com/nosami/Elmish.Calculator) - an implementation of a calculator using Full-Elmish.
 * [Elmish Contacts](https://github.com/TimLariviere/ElmishContacts) - a contacts app using Full-Elmish.
+* [Elmish Planets](https://github.com/TimLariviere/ElmishPlanets) - Simple app with facts on the planets in the Solar System. Uses Urho3D and Elmish.XamarinForms (F#)
 
 ## Blog posts
 
