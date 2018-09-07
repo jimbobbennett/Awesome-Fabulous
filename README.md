@@ -1,11 +1,11 @@
-# Awesome Elmish.XamarinForms
+# Awesome Fabulous
 
-A hand-curated list of awesome resources when using [Elmish.XamarinForms](https://github.com/fsprojects/Elmish.XamarinForms).
+A hand-curated list of awesome resources when using [Fabulous](https://github.com/fsprojects/Fabulous).
 
-## Elmish.XamarinForms
+## Fabulous
 
-* [Elmish.XamarinForms on GitHub](https://github.com/fsprojects/Elmish.XamarinForms)
-* [Official documentation](https://fsprojects.github.io/Elmish.XamarinForms/)
+* [Fabulous on GitHub](https://github.com/fsprojects/Fabulous)
+* [Official documentation](https://fsprojects.github.io/Fabulous/)
 
 ## Sample apps
 
