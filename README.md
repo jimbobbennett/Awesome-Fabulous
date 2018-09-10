@@ -14,7 +14,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Tic Tac Toe](https://github.com/jimbobbennett/TicTacToe) - A Half-Elmish implementation of Tic Tac Toe.
 * [Elmish Calculator](https://github.com/nosami/Elmish.Calculator) - an implementation of a calculator using Full-Elmish.
 * [Elmish Contacts](https://github.com/TimLariviere/ElmishContacts) - a contacts app using Full-Elmish.
-* [Elmish Planets](https://github.com/TimLariviere/ElmishPlanets) - Simple app with facts on the planets in the Solar System. Uses Urho3D and Elmish.XamarinForms (F#)
+* [Elmish Planets](https://github.com/TimLariviere/ElmishPlanets) - Simple app with facts on the planets in the Solar System. Uses Urho3D and Fabulous (F#)
 * [My Crypto Portfolio](https://github.com/DieselMeister/MyCryptoPortfolio) - Manages your crypto portfolio on your phone. Written in F#, Xamarin and Xamarin.Elmish.
 
 ## Blog posts
