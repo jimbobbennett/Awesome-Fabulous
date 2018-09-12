@@ -26,3 +26,5 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Building mobile apps using Xamarin and F# from F#Conf](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/05) - Building Xamarin apps in F#, starting with using F# as a drop-in for C#, then looking at Half-Elmish.
 * [Xamarin University Guest lecture on Xamarin and F#](https://www.youtube.com/watch?v=si9YdWhbwSI) - Building Xamarin apps using F# with half-elmish and full-elmish
 * [Using Live Update](https://youtu.be/9IaYI96mJzQ) - A short intro to using Live Update with Elmish apps
+* [Making Mobile App Programming Simple With F#
+](https://www.youtube.com/watch?v=bEO7bl79uAM) - Don Syme (feat. Jim Bennett) presentation "Making Mobile App Programming Simple With F#".
