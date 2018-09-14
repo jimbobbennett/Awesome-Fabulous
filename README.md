@@ -17,6 +17,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Elmish Planets](https://github.com/TimLariviere/ElmishPlanets) - Simple app with facts on the planets in the Solar System. Uses Urho3D and Fabulous (F#)
 * [My Crypto Portfolio](https://github.com/DieselMeister/MyCryptoPortfolio) - Manages your crypto portfolio on your phone. Written in F# and Fabulous.
 * [FSharpris](https://github.com/DieselMeister/FSharpris) - A simple Tetris Clone in F# and Fabulous.
+* [SqueakyApp Linux/Mac](https://github.com/jimbobbennett/SqueakyAppLinuxAndMac) - a port of the `dotnet new` sample app to Linux and macOS.
 
 ## Blog posts
 
