@@ -18,6 +18,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [My Crypto Portfolio](https://github.com/DieselMeister/MyCryptoPortfolio) - Manages your crypto portfolio on your phone. Written in F# and Fabulous.
 * [FSharpris](https://github.com/DieselMeister/FSharpris) - A simple Tetris Clone in F# and Fabulous.
 * [SqueakyApp Linux/Mac](https://github.com/jimbobbennett/SqueakyAppLinuxAndMac) - a port of the `dotnet new` sample app to Linux and macOS.
+* [Sokoban Fabulous](https://github.com/nosami/SokobanFabulous) - Sokoban game for iOS and Android written in F# using Xamarin Fabulous framework
 
 ## Blog posts
 
