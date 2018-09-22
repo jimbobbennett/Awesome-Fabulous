@@ -7,6 +7,13 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Fabulous on GitHub](https://github.com/fsprojects/Fabulous)
 * [Official documentation](https://fsprojects.github.io/Fabulous/)
 
+## Libraries 
+
+* [fabulous-simple-elements](https://github.com/Zaid-Ajaj/fabulous-simple-elements) - Alternative DSL for constructing view elements, inspired by Elmish on the web and compatible with existing `View` API. The repository includes these samples:
+  - Fifteen Puzzle game
+  - LoginFlow 
+  - Counter
+
 ## Sample apps
 
 * [Half-Elmish Demo](https://github.com/jimbobbennett/HalfElmishDemo) - A simple half-emlish demo app with an incrementing counter.
