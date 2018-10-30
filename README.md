@@ -39,6 +39,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Using Live Update](https://youtu.be/9IaYI96mJzQ) - A short intro to using Live Update with Elmish apps
 * [Making Mobile App Programming Simple With F#
 ](https://www.youtube.com/watch?v=bEO7bl79uAM) - Don Syme (feat. Jim Bennett) presentation "Making Mobile App Programming Simple With F#".
+* [(French) Simplifier la programmation mobile avec F#](https://www.youtube.com/watch?v=X9aw-yHU0Sc) - An introduction to Fabulous by Arthur Le Meur and Timothé Larivière. Video shot in the french meetup "Le Dev Mobile"
 
 ## Twitch streams
 
