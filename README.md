@@ -13,6 +13,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
   - Fifteen Puzzle game
   - LoginFlow 
   - Counter
+* [Elmish.Bridge.Fabulous](https://github.com/Nhowka/Elmish.Bridge) - Fabulous client for Elmish.Bridge. Creates a stateful communication with a server with the same message passing architecture as Elmish.
 
 ## Sample apps
 
