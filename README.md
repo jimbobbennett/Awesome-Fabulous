@@ -28,6 +28,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [SqueakyApp Linux/Mac](https://github.com/jimbobbennett/SqueakyAppLinuxAndMac) - a port of the `dotnet new` sample app to Linux and macOS.
 * [Sokoban Fabulous](https://github.com/nosami/SokobanFabulous) - Sokoban game for iOS and Android written in F# using Xamarin Fabulous framework
 * [TwitchDeck](https://github.com/GarethHubball/Twitchdeck) - An app that is being built live on Twitch at https://www.twitch.tv/garethhubball
+* [Perry Rhodan AudioBook Player](https://github.com/DieselMeister/perry-rhodan-audiobook-player) - An Audible(tm) like audio book player for a small audio book publisher, who produces the Perry Rhodan audio books. Written in F# Xamarin Fabulous. Easly adjustable to work with other audio book websites.
 
 ## Blog posts
 
