@@ -29,10 +29,12 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Sokoban Fabulous](https://github.com/nosami/SokobanFabulous) - Sokoban game for iOS and Android written in F# using Xamarin Fabulous framework
 * [TwitchDeck](https://github.com/GarethHubball/Twitchdeck) - An app that is being built live on Twitch at https://www.twitch.tv/garethhubball
 * [Perry Rhodan AudioBook Player](https://github.com/DieselMeister/perry-rhodan-audiobook-player) - An Audible(tm) like audio book player for a small audio book publisher, who produces the Perry Rhodan audio books. Written in F# Xamarin Fabulous. Easly adjustable to work with other audio book websites.
+* [Clement Boudereau Weather App](https://github.com/cboudereau/fabulous-weather) - FsAdent weather app demo with gps sensor and fsharp data integration into a fabulous based android apk.
 
 ## Blog posts
 
 * [Building mobile apps in F# using Xamarin.Forms and Elmish](https://www.jimbobbennett.io/building-mobile-apps-in-f-using-xamarin-forms-and-elmish/) - a blog post on building Half-Elmish Xamarin Forms apps.
+* [2018 FsAdvent : Weather mobile app in F#](https://github.com/cboudereau/fabulous-weather/blob/master/README.md) - a blog post on building fabulous weather mobile app step by step during the 2018 FsAdvent. 
 
 ## Videos
 
