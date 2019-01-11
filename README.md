@@ -7,6 +7,10 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Fabulous on GitHub](https://github.com/fsprojects/Fabulous)
 * [Official documentation](https://fsprojects.github.io/Fabulous/)
 
+## Project Scaffold
+
+* [FabScaffold](https://github.com/kunjee17/FabScaffold) Fabulous Scaffold Application, Fabulous + Akavache (for storing data with support of in memory data in debug mode and local storage in release mode) + Bogus (for generating data in debug mode)
+
 ## Libraries 
 
 * [fabulous-simple-elements](https://github.com/Zaid-Ajaj/fabulous-simple-elements) - Alternative DSL for constructing view elements, inspired by Elmish on the web and compatible with existing `View` API. The repository includes these samples:
