@@ -19,6 +19,9 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
   - Counter
 * [Elmish.Bridge.Fabulous](https://github.com/Nhowka/Elmish.Bridge) - Fabulous client for Elmish.Bridge. Creates a stateful communication with a server with the same message passing architecture as Elmish.
 
+## Built with Fabulous
+* [Escribe](https://fuzzycloud.in/escribe/) - Escribe is application created for Medical Professionals or Doctors to support to write prescription on the go.
+
 ## Sample apps
 
 * [Half-Elmish Demo](https://github.com/jimbobbennett/HalfElmishDemo) - A simple half-emlish demo app with an incrementing counter.
