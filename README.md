@@ -41,7 +41,8 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 ## Blog posts
 
 * [Building mobile apps in F# using Xamarin.Forms and Elmish](https://www.jimbobbennett.io/building-mobile-apps-in-f-using-xamarin-forms-and-elmish/) - a blog post on building Half-Elmish Xamarin Forms apps.
-* [2018 FsAdvent : Weather mobile app in F#](https://github.com/cboudereau/fabulous-weather/blob/master/README.md) - a blog post on building fabulous weather mobile app step by step during the 2018 FsAdvent. 
+* [2018 FsAdvent : Weather mobile app in F#](https://github.com/cboudereau/fabulous-weather/blob/master/README.md) - a blog post on building fabulous weather mobile app step by step. This was published as part of the [2018 FsAdvent](https://sergeytihon.com/2018/10/22/f-advent-calendar-in-english-2018/). 
+* [2018 FsAdvent : Fabulous Santa Tracker](https://www.jimbobbennett.io/fabulous-santa-tracker/) - a blog post on building a Santa tracker for Christmas Eve using Fabulous. This was published as part of the [2018 FsAdvent](https://sergeytihon.com/2018/10/22/f-advent-calendar-in-english-2018/).
 
 ## Videos
 
