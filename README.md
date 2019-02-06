@@ -37,6 +37,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [TwitchDeck](https://github.com/GarethHubball/Twitchdeck) - An app that is being built live on Twitch at https://www.twitch.tv/garethhubball
 * [Perry Rhodan AudioBook Player](https://github.com/DieselMeister/perry-rhodan-audiobook-player) - An Audible(tm) like audio book player for a small audio book publisher, who produces the Perry Rhodan audio books. Written in F# Xamarin Fabulous. Easly adjustable to work with other audio book websites.
 * [Clement Boudereau Weather App](https://github.com/cboudereau/fabulous-weather) - FsAdent weather app demo with gps sensor and fsharp data integration into a fabulous based android apk.
+* [Fabulous MSAL (Microsoft Authentication Library)](https://github.com/pauldorehill/MSAL.Fabulous) - A simple app using MSAL to authenticate a user with Azure Active Directory.
 
 ## Blog posts
 
