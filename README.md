@@ -55,6 +55,9 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Making Mobile App Programming Simple With F#
 ](https://www.youtube.com/watch?v=bEO7bl79uAM) - Don Syme (feat. Jim Bennett) presentation "Making Mobile App Programming Simple With F#".
 * [(French) Simplifier la programmation mobile avec F#](https://www.youtube.com/watch?v=X9aw-yHU0Sc) - An introduction to Fabulous by Arthur Le Meur and Timothé Larivière. Video shot in the french meetup "Le Dev Mobile"
+* [Building cross-platform mobile apps with Fabulous - NDC London](https://youtu.be/Hm4EDPNXQqY) - An introduction to Fabulous from NDC London
+* [Building cross-platform mobile apps with Fabulous - F# eXchange](https://skillsmatter.com/skillscasts/13411-build-cross-platform-mobile-apps-using-fabulous) - An introduction to Fabulous from F# eXchange
+* [From Concept to Creation in a Week with Fabulous](https://skillsmatter.com/skillscasts/13429-from-concept-to-creation-in-a-week-with-fabulous) - how [Kunjee](https://twitter.com/kunjee) built a Fabulous app from concept to final app in a week showing real-world tips to architect an app
 
 ## Twitch streams
 
