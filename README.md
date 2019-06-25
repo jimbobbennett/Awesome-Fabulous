@@ -43,7 +43,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 
 ## Code samples
 
-* [Long pressed gesture using effects](https://gist.github.com/cannorin/f1c8fe9032c86283443649fad7be470a) - how to use an effect to add a long pressed gesture from [cannorin](https://gist.github.com/cannorin)
+* [Long pressed gesture using effects](https://gist.github.com/cannorin/f1c8fe9032c86283443649fad7be470a) - how to use an effect to add a long pressed gesture from [cannorin](https://github.com/cannorin)
 
 ## Blog posts
 
