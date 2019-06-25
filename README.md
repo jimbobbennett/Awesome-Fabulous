@@ -41,6 +41,10 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Clement Boudereau Weather App](https://github.com/cboudereau/fabulous-weather) - FsAdent weather app demo with gps sensor and fsharp data integration into a fabulous based android apk.
 * [Fabulous MSAL (Microsoft Authentication Library)](https://github.com/pauldorehill/MSAL.Fabulous) - A simple app using MSAL to authenticate a user with Azure Active Directory.
 
+## Code samples
+
+* [Long pressed gesture using effects](https://gist.github.com/cannorin/f1c8fe9032c86283443649fad7be470a) - how to use an effect to add a long pressed gesture from [cannorin](https://gist.github.com/cannorin)
+
 ## Blog posts
 
 * [Building mobile apps in F# using Xamarin.Forms and Elmish](https://www.jimbobbennett.io/building-mobile-apps-in-f-using-xamarin-forms-and-elmish/) - a blog post on building Half-Elmish Xamarin Forms apps.
