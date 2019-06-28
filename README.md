@@ -51,7 +51,8 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [2018 FsAdvent : Weather mobile app in F#](https://github.com/cboudereau/fabulous-weather/blob/master/README.md) - a blog post on building fabulous weather mobile app step by step. This was published as part of the [2018 FsAdvent](https://sergeytihon.com/2018/10/22/f-advent-calendar-in-english-2018/). 
 * [2018 FsAdvent : Fabulous Santa Tracker](https://www.jimbobbennett.io/fabulous-santa-tracker/) - a blog post on building a Santa tracker for Christmas Eve using Fabulous. This was published as part of the [2018 FsAdvent](https://sergeytihon.com/2018/10/22/f-advent-calendar-in-english-2018/).
 * [Working with Fabulous for Xamarin.Forms](https://areslazarus.com/archive/working-with-fabulous-for-xamarinforms/) - a blog post describing the author's first experiences with Fabulous (as of March 2019 and Fabulous 0.33.1): _Fabulous was basically ruining vanilla Xamarin Forms for me!_ 
-* [Adding a simple feature to Elmish Contacts](https://gist.github.com/CMThre3/e7c034dad6066c968e671ef446fc51ee)
+* [Adding a simple feature to FabulousContacts](https://gist.github.com/CMThre3/e7c034dad6066c968e671ef446fc51ee)
+* [Making FabulousPlanets into a planet guessing game](https://gist.github.com/CMThre3/1c4aea82a36203fa8cc8450ea98fd2a4)
 
 ## Videos
 
