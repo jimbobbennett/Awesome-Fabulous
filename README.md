@@ -30,8 +30,8 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Full-Elmish Demo](https://github.com/jimbobbennett/FullElmishDemo) - A simple full-emlish demo app with mulitple pages, an incrementing counter and a unit test project for the `init`, `update` and `view` functions.
 * [Tic Tac Toe](https://github.com/jimbobbennett/TicTacToe) - A Half-Elmish implementation of Tic Tac Toe.
 * [Elmish Calculator](https://github.com/nosami/Elmish.Calculator) - an implementation of a calculator using Full-Elmish.
-* [Elmish Contacts](https://github.com/TimLariviere/ElmishContacts) - a contacts app using Full-Elmish.
-* [Elmish Planets](https://github.com/TimLariviere/ElmishPlanets) - Simple app with facts on the planets in the Solar System. Uses Urho3D and Fabulous (F#)
+* [Fabulous Contacts](https://github.com/TimLariviere/FabulousContacts) - a contacts app using Full-Elmish.
+* [Fabulous Planets](https://github.com/TimLariviere/FabulousPlanets) - Simple app with facts on the planets in the Solar System. Uses Urho3D and Fabulous (F#)
 * [My Crypto Portfolio](https://github.com/DieselMeister/MyCryptoPortfolio) - Manages your crypto portfolio on your phone. Written in F# and Fabulous.
 * [FSharpris](https://github.com/DieselMeister/FSharpris) - A simple Tetris Clone in F# and Fabulous.
 * [SqueakyApp Linux/Mac](https://github.com/jimbobbennett/SqueakyAppLinuxAndMac) - a port of the `dotnet new` sample app to Linux and macOS.
