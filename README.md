@@ -26,11 +26,11 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 
 ## Sample apps
 
-* [Half-Elmish Demo](https://github.com/jimbobbennett/HalfElmishDemo) - A simple half-emlish demo app with an incrementing counter.
-* [Full-Elmish Demo](https://github.com/jimbobbennett/FullElmishDemo) - A simple full-emlish demo app with mulitple pages, an incrementing counter and a unit test project for the `init`, `update` and `view` functions.
+* [Half-Elmish Demo](https://github.com/jimbobbennett/HalfElmishDemo) - A simple half-elmish demo app with an incrementing counter.
+* [Full-Elmish Demo](https://github.com/jimbobbennett/FullElmishDemo) - A simple full-elmish demo app with mulitple pages, an incrementing counter and a unit test project for the `init`, `update` and `view` functions.
 * [Tic Tac Toe](https://github.com/jimbobbennett/TicTacToe) - A Half-Elmish implementation of Tic Tac Toe.
-* [Elmish Calculator](https://github.com/nosami/Elmish.Calculator) - an implementation of a calculator using Full-Elmish.
-* [Fabulous Contacts](https://github.com/TimLariviere/FabulousContacts) - a contacts app using Full-Elmish.
+* [Elmish Calculator](https://github.com/nosami/Elmish.Calculator) - an implementation of a calculator using full-elmish.
+* [Fabulous Contacts](https://github.com/TimLariviere/FabulousContacts) - a contacts app using full-elmish.
 * [Fabulous Planets](https://github.com/TimLariviere/FabulousPlanets) - Simple app with facts on the planets in the Solar System. Uses Urho3D and Fabulous (F#)
 * [My Crypto Portfolio](https://github.com/DieselMeister/MyCryptoPortfolio) - Manages your crypto portfolio on your phone. Written in F# and Fabulous.
 * [FSharpris](https://github.com/DieselMeister/FSharpris) - A simple Tetris Clone in F# and Fabulous.
@@ -40,6 +40,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Perry Rhodan AudioBook Player](https://github.com/DieselMeister/perry-rhodan-audiobook-player) - An Audible(tm) like audio book player for a small audio book publisher, who produces the Perry Rhodan audio books. Written in F# Xamarin Fabulous. Easly adjustable to work with other audio book websites.
 * [Clement Boudereau Weather App](https://github.com/cboudereau/fabulous-weather) - FsAdent weather app demo with gps sensor and fsharp data integration into a fabulous based android apk.
 * [Fabulous MSAL (Microsoft Authentication Library)](https://github.com/pauldorehill/MSAL.Fabulous) - A simple app using MSAL to authenticate a user with Azure Active Directory.
+* [Fabulous + GraphQL Type Provider](https://github.com/fsprojects/FSharp.Data.GraphQL/tree/dev/samples/star-wars-fabulous-client) - A simple full-elmish app using the F# GraphQL Type Provider [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL).
 
 ## Code samples
 
