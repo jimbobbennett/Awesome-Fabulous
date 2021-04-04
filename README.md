@@ -41,6 +41,7 @@ A hand-curated list of awesome resources when using [Fabulous](https://github.co
 * [Clement Boudereau Weather App](https://github.com/cboudereau/fabulous-weather) - FsAdent weather app demo with gps sensor and fsharp data integration into a fabulous based android apk.
 * [Fabulous MSAL (Microsoft Authentication Library)](https://github.com/pauldorehill/MSAL.Fabulous) - A simple app using MSAL to authenticate a user with Azure Active Directory.
 * [Fabulous + GraphQL Type Provider](https://github.com/fsprojects/FSharp.Data.GraphQL/tree/dev/samples/star-wars-fabulous-client) - A simple full-elmish app using the F# GraphQL Type Provider [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL).
+* [Sample Chat app with Server](https://github.com/kaeedo/FabulousRemotingTutorial/tree/fable) - A simple real time chat app built with Fable.SignalR
 
 ## Code samples
 
