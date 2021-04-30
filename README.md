@@ -1,5 +1,8 @@
 # Awesome Fabulous
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+[![Twitter: jimbobbennett](https://img.shields.io/twitter/follow/jimbobbennett.svg?style=social)](https://twitter.com/jimbobbennett)
+
 A hand-curated list of awesome resources when using [Fabulous](https://github.com/fsprojects/Fabulous).
 
 ## Fabulous
